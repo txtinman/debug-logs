@@ -1,0 +1,1252 @@
+0096:fixme:actctx:parse_depend_manifests Could not find dependent assembly L"Microsoft.VC80.MFCLOC" (8.0.50608.0)
+0096:fixme:wininet:InternetSetOptionW INTERNET_OPTION_SEND/RECEIVE_TIMEOUT/DATA_SEND_TIMEOUT 30000
+0096:fixme:wininet:InternetSetOptionW INTERNET_OPTION_SEND/RECEIVE_TIMEOUT/DATA_SEND_TIMEOUT 30000
+0096:fixme:wininet:InternetSetOptionW INTERNET_OPTION_CONNECT_RETRIES 0
+0096:fixme:msvcrt:type_info_name_internal_method type_info_node parameter ignored
+
+Intrinsic Alchemy v3.3 Beta-0702 (Dynamic/Release)
+Built by <unknown> on Fri Jul 2 00:00:00 2010
+
+0096:fixme:wininet:InternetCheckConnectionW (L"http://www.google.com" 1 0)
+0096:fixme:wininet:InternetSetOptionW INTERNET_OPTION_SEND/RECEIVE_TIMEOUT/DATA_SEND_TIMEOUT 30000
+0096:fixme:wininet:InternetSetOptionW INTERNET_OPTION_SEND/RECEIVE_TIMEOUT/DATA_SEND_TIMEOUT 30000
+0096:fixme:ieframe:PersistStreamInit_InitNew (0x160100)
+0096:fixme:ieframe:navigate_url Unsupported args (Flags 0x33f028 {VT_I4: 4}; TargetFrameName 0x33f038 {VT_BSTR: (null)})
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:ieframe:navigate_url Unsupported args (Flags 0x33f058 {VT_I4: 4}; TargetFrameName 0x33f068 {VT_BSTR: (null)})
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+009b:err:winediag:SECUR32_initNTLMSP ntlm_auth was not found or is outdated. Make sure that ntlm_auth >= 3.0.25 is in your path. Usually, you can find it in the winbind package of your distribution.
+0096:fixme:ieframe:WebBrowser_Stop (0x160100)
+0096:fixme:ieframe:navigate_url Unsupported args (Flags 0x33f6f8 {VT_I4: 4}; TargetFrameName 0x33f708 {VT_BSTR: (null)})
+009e:fixme:iphlpapi:NotifyIpInterfaceChange (family 0, callback 0x6a0cb608, context 0x2c74710, init_notify 0, handle 0xc5bfc88): stub
+0096:fixme:imm:ImmGetDescriptionW (0x4090409, (nil), 0): semi stub
+0096:fixme:imm:ImmGetDescriptionW (0x4090409, 0xeb452a0, 9): semi stub
+0096:fixme:imm:ImmGetOpenStatus (0x3648658): semi-stub
+0096:fixme:imm:ImmReleaseContext (0x20e010c, 0x3648658): stub
+0096:fixme:ntdll:NtLockFile I/O completion on lock not implemented yet
+0096:fixme:ieframe:BrowserService_GetTravelLog 0x1db490 0x33e7e8
+0096:fixme:ieframe:ClientSite_GetContainer (0x1601cc)->(0x33e7a8)
+0096:fixme:ieframe:ClientSite_GetContainer (0x1601cc)->(0x33f798)
+0096:fixme:win:EnumDisplayDevicesW ((null),0,0x33ee24,0x00000000), stub!
+0096:fixme:font:get_outline_text_metrics failed to read full_nameW for font L"Ani"!
+0096:fixme:ieframe:DocHostUIHandler_GetDropTarget (0x1601cc)
+0096:fixme:ntdll:EtwRegisterTraceGuidsW (0x69edfc08, 0xf3a5340, {509962e0-406b-46f4-99ba-5a009f8d2225}, 3, 0xf392e18, (null), (null), 0xf3a5370): stub
+0096:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {a3da04e0-57d7-482a-a1c1-61da5f95bacb}
+0096:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {917b96b1-ecad-4dab-a760-8d49027748ae}
+0096:fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {26d1e091-0ae7-4f49-a554-4214445c505c}
+0096:fixme:ieframe:PropertyNotifySink_OnChanged unimplemented dispid 1005
+0096:fixme:mshtml:nsChannel_GetContentLength (0x3649840)->(0x33db30)
+0096:fixme:ieframe:ControlSite_OnFocus (0x1601cc)->(0)
+0096:fixme:ieframe:InPlaceSite_OnInPlaceDeactivateEx fNoRedraw (1) ignored
+0096:fixme:mshtml:HlinkTarget_SetBrowseContext (0x1845d8)->((nil))
+0096:fixme:ieframe:OleInPlaceObject_InPlaceDeactivate (0x160100)
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo GL version             : 3.0 Mesa 19.0.8.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo GL renderer            : Mesa DRI Intel(R) HD Graphics 520 (Skylake GT2) x86/MMX/SSE2.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo GLX version            : 1.4.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo Server GLX version     : 1.4.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo Server GLX vendor:     : SGI.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo Client GLX version     : 1.4.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo Client GLX vendor:     : Mesa Project and SGI.
+0096:trace:wgl:X11DRV_WineGL_InitOpenglInfo Direct rendering enabled: True
+0096:trace:wgl:init_opengl GLX is up and running error_base = 170
+0096:trace:wgl:register_extension 'WGL_ARB_create_context'
+0096:trace:wgl:register_extension 'WGL_ARB_create_context_profile'
+0096:trace:wgl:register_extension 'WGL_ARB_pixel_format_float'
+0096:trace:wgl:register_extension 'WGL_ATI_pixel_format_float'
+0096:trace:wgl:register_extension 'WGL_ARB_extensions_string'
+0096:trace:wgl:register_extension 'WGL_ARB_make_current_read'
+0096:trace:wgl:register_extension 'WGL_ARB_multisample'
+0096:trace:wgl:register_extension 'WGL_ARB_pbuffer'
+0096:trace:wgl:register_extension 'WGL_ARB_pixel_format'
+0096:trace:wgl:register_extension 'WGL_ARB_render_texture'
+0096:trace:wgl:register_extension 'WGL_NV_render_texture_rectangle'
+0096:trace:wgl:register_extension 'WGL_EXT_extensions_string'
+0096:trace:wgl:register_extension 'WGL_EXT_swap_control'
+0096:trace:wgl:register_extension 'WGL_EXT_framebuffer_sRGB'
+0096:trace:wgl:register_extension 'WGL_EXT_pixel_format_packed_float'
+0096:trace:wgl:register_extension 'WGL_WINE_pixel_format_passthrough'
+0096:trace:wgl:register_extension 'WGL_WINE_query_renderer'
+0096:trace:wgl:init_pixel_formats Found 22 bitmap capable fbconfigs
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa2 corresponding to iPixelFormat 1 at GLX index 6
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa3 corresponding to iPixelFormat 2 at GLX index 7
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xa3 corresponding to iPixelFormat 3 at GLX index 7
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa4 corresponding to iPixelFormat 4 at GLX index 8
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa5 corresponding to iPixelFormat 5 at GLX index 9
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xa5 corresponding to iPixelFormat 6 at GLX index 9
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa6 corresponding to iPixelFormat 7 at GLX index 10
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa7 corresponding to iPixelFormat 8 at GLX index 11
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xa7 corresponding to iPixelFormat 9 at GLX index 11
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa8 corresponding to iPixelFormat 10 at GLX index 12
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xa9 corresponding to iPixelFormat 11 at GLX index 13
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xa9 corresponding to iPixelFormat 12 at GLX index 13
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xaa corresponding to iPixelFormat 13 at GLX index 14
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xab corresponding to iPixelFormat 14 at GLX index 15
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xab corresponding to iPixelFormat 15 at GLX index 15
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xac corresponding to iPixelFormat 16 at GLX index 16
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xad corresponding to iPixelFormat 17 at GLX index 17
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xad corresponding to iPixelFormat 18 at GLX index 17
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xb0 corresponding to iPixelFormat 19 at GLX index 20
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xb1 corresponding to iPixelFormat 20 at GLX index 21
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xb2 corresponding to iPixelFormat 21 at GLX index 22
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xb3 corresponding to iPixelFormat 22 at GLX index 23
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xb4 corresponding to iPixelFormat 23 at GLX index 24
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xb5 corresponding to iPixelFormat 24 at GLX index 25
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xbe corresponding to iPixelFormat 25 at GLX index 34
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xbf corresponding to iPixelFormat 26 at GLX index 35
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc0 corresponding to iPixelFormat 27 at GLX index 36
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc1 corresponding to iPixelFormat 28 at GLX index 37
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc2 corresponding to iPixelFormat 29 at GLX index 38
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc3 corresponding to iPixelFormat 30 at GLX index 39
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc4 corresponding to iPixelFormat 31 at GLX index 40
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc5 corresponding to iPixelFormat 32 at GLX index 41
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc6 corresponding to iPixelFormat 33 at GLX index 42
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc7 corresponding to iPixelFormat 34 at GLX index 43
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc8 corresponding to iPixelFormat 35 at GLX index 44
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xc9 corresponding to iPixelFormat 36 at GLX index 45
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xca corresponding to iPixelFormat 37 at GLX index 46
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xcb corresponding to iPixelFormat 38 at GLX index 47
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xcc corresponding to iPixelFormat 39 at GLX index 48
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xcd corresponding to iPixelFormat 40 at GLX index 49
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xce corresponding to iPixelFormat 41 at GLX index 50
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xcf corresponding to iPixelFormat 42 at GLX index 51
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xd0 corresponding to iPixelFormat 43 at GLX index 52
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xd1 corresponding to iPixelFormat 44 at GLX index 53
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xd2 corresponding to iPixelFormat 45 at GLX index 54
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xd3 corresponding to iPixelFormat 46 at GLX index 55
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xd4 corresponding to iPixelFormat 47 at GLX index 56
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xd5 corresponding to iPixelFormat 48 at GLX index 57
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xdc corresponding to iPixelFormat 49 at GLX index 64
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xdd corresponding to iPixelFormat 50 at GLX index 65
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xdd corresponding to iPixelFormat 51 at GLX index 65
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xde corresponding to iPixelFormat 52 at GLX index 66
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xdf corresponding to iPixelFormat 53 at GLX index 67
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xdf corresponding to iPixelFormat 54 at GLX index 67
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe0 corresponding to iPixelFormat 55 at GLX index 68
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe1 corresponding to iPixelFormat 56 at GLX index 69
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xe1 corresponding to iPixelFormat 57 at GLX index 69
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe2 corresponding to iPixelFormat 58 at GLX index 70
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe3 corresponding to iPixelFormat 59 at GLX index 71
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xe3 corresponding to iPixelFormat 60 at GLX index 71
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe4 corresponding to iPixelFormat 61 at GLX index 72
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe5 corresponding to iPixelFormat 62 at GLX index 73
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xe5 corresponding to iPixelFormat 63 at GLX index 73
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe6 corresponding to iPixelFormat 64 at GLX index 74
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xe7 corresponding to iPixelFormat 65 at GLX index 75
+0096:trace:wgl:init_pixel_formats Found bitmap capable format FBCONFIG_ID 0xe7 corresponding to iPixelFormat 66 at GLX index 75
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xea corresponding to iPixelFormat 67 at GLX index 78
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xeb corresponding to iPixelFormat 68 at GLX index 79
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xec corresponding to iPixelFormat 69 at GLX index 80
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xed corresponding to iPixelFormat 70 at GLX index 81
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xee corresponding to iPixelFormat 71 at GLX index 82
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xef corresponding to iPixelFormat 72 at GLX index 83
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xf8 corresponding to iPixelFormat 73 at GLX index 92
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xf9 corresponding to iPixelFormat 74 at GLX index 93
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xfa corresponding to iPixelFormat 75 at GLX index 94
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xfb corresponding to iPixelFormat 76 at GLX index 95
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xfc corresponding to iPixelFormat 77 at GLX index 96
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xfd corresponding to iPixelFormat 78 at GLX index 97
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xfe corresponding to iPixelFormat 79 at GLX index 98
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0xff corresponding to iPixelFormat 80 at GLX index 99
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x100 corresponding to iPixelFormat 81 at GLX index 100
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x101 corresponding to iPixelFormat 82 at GLX index 101
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x102 corresponding to iPixelFormat 83 at GLX index 102
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x103 corresponding to iPixelFormat 84 at GLX index 103
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x104 corresponding to iPixelFormat 85 at GLX index 104
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x105 corresponding to iPixelFormat 86 at GLX index 105
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x106 corresponding to iPixelFormat 87 at GLX index 106
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x107 corresponding to iPixelFormat 88 at GLX index 107
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x108 corresponding to iPixelFormat 89 at GLX index 108
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x109 corresponding to iPixelFormat 90 at GLX index 109
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x10a corresponding to iPixelFormat 91 at GLX index 110
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x10b corresponding to iPixelFormat 92 at GLX index 111
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x10c corresponding to iPixelFormat 93 at GLX index 112
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x10d corresponding to iPixelFormat 94 at GLX index 113
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x10e corresponding to iPixelFormat 95 at GLX index 114
+0096:trace:wgl:init_pixel_formats Found onscreen format FBCONFIG_ID 0x10f corresponding to iPixelFormat 96 at GLX index 115
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0x9c corresponding to iPixelFormat 97 at GLX index 0
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0x9d corresponding to iPixelFormat 98 at GLX index 1
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0x9e corresponding to iPixelFormat 99 at GLX index 2
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0x9f corresponding to iPixelFormat 100 at GLX index 3
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xa0 corresponding to iPixelFormat 101 at GLX index 4
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xa1 corresponding to iPixelFormat 102 at GLX index 5
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xae corresponding to iPixelFormat 103 at GLX index 18
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xaf corresponding to iPixelFormat 104 at GLX index 19
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xb6 corresponding to iPixelFormat 105 at GLX index 26
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xb7 corresponding to iPixelFormat 106 at GLX index 27
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xb8 corresponding to iPixelFormat 107 at GLX index 28
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xb9 corresponding to iPixelFormat 108 at GLX index 29
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xba corresponding to iPixelFormat 109 at GLX index 30
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xbb corresponding to iPixelFormat 110 at GLX index 31
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xbc corresponding to iPixelFormat 111 at GLX index 32
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xbd corresponding to iPixelFormat 112 at GLX index 33
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xd6 corresponding to iPixelFormat 113 at GLX index 58
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xd7 corresponding to iPixelFormat 114 at GLX index 59
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xd8 corresponding to iPixelFormat 115 at GLX index 60
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xd9 corresponding to iPixelFormat 116 at GLX index 61
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xda corresponding to iPixelFormat 117 at GLX index 62
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xdb corresponding to iPixelFormat 118 at GLX index 63
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xe8 corresponding to iPixelFormat 119 at GLX index 76
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xe9 corresponding to iPixelFormat 120 at GLX index 77
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf0 corresponding to iPixelFormat 121 at GLX index 84
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf1 corresponding to iPixelFormat 122 at GLX index 85
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf2 corresponding to iPixelFormat 123 at GLX index 86
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf3 corresponding to iPixelFormat 124 at GLX index 87
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf4 corresponding to iPixelFormat 125 at GLX index 88
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf5 corresponding to iPixelFormat 126 at GLX index 89
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf6 corresponding to iPixelFormat 127 at GLX index 90
+0096:trace:wgl:init_pixel_formats Found offscreen format FBCONFIG_ID 0xf7 corresponding to iPixelFormat 128 at GLX index 91
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,1,0,(nil))
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,1,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa2 for iPixelFormat=1
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,2,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa3 for iPixelFormat=2
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,3,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa3 for iPixelFormat=3
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,4,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa4 for iPixelFormat=4
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,5,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa5 for iPixelFormat=5
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,6,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa5 for iPixelFormat=6
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,7,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa6 for iPixelFormat=7
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,8,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa7 for iPixelFormat=8
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,9,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa7 for iPixelFormat=9
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,10,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa8 for iPixelFormat=10
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,11,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa9 for iPixelFormat=11
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,12,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa9 for iPixelFormat=12
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,13,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xaa for iPixelFormat=13
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,14,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xab for iPixelFormat=14
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,15,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xab for iPixelFormat=15
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,16,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xac for iPixelFormat=16
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,17,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xad for iPixelFormat=17
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,18,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xad for iPixelFormat=18
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,19,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb0 for iPixelFormat=19
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,20,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb1 for iPixelFormat=20
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,21,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb2 for iPixelFormat=21
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,22,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb3 for iPixelFormat=22
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 48 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,23,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb4 for iPixelFormat=23
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,24,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb5 for iPixelFormat=24
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,25,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xbe for iPixelFormat=25
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,26,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xbf for iPixelFormat=26
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,27,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc0 for iPixelFormat=27
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,28,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc1 for iPixelFormat=28
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,29,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc2 for iPixelFormat=29
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,30,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc3 for iPixelFormat=30
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,31,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc4 for iPixelFormat=31
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,32,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc5 for iPixelFormat=32
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,33,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc6 for iPixelFormat=33
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,34,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc7 for iPixelFormat=34
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,35,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc8 for iPixelFormat=35
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,36,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc9 for iPixelFormat=36
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,37,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xca for iPixelFormat=37
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,38,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcb for iPixelFormat=38
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,39,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcc for iPixelFormat=39
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,40,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcd for iPixelFormat=40
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,41,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xce for iPixelFormat=41
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,42,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcf for iPixelFormat=42
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,43,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd0 for iPixelFormat=43
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,44,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd1 for iPixelFormat=44
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,45,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd2 for iPixelFormat=45
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,46,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd3 for iPixelFormat=46
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,47,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd4 for iPixelFormat=47
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,48,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd5 for iPixelFormat=48
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,49,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdc for iPixelFormat=49
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,50,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdd for iPixelFormat=50
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,51,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdd for iPixelFormat=51
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,52,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xde for iPixelFormat=52
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,53,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdf for iPixelFormat=53
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,54,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdf for iPixelFormat=54
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,55,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe0 for iPixelFormat=55
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,56,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe1 for iPixelFormat=56
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,57,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe1 for iPixelFormat=57
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,58,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe2 for iPixelFormat=58
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,59,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe3 for iPixelFormat=59
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,60,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe3 for iPixelFormat=60
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,61,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe4 for iPixelFormat=61
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,62,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe5 for iPixelFormat=62
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,63,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe5 for iPixelFormat=63
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,64,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe6 for iPixelFormat=64
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,65,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe7 for iPixelFormat=65
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,66,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe7 for iPixelFormat=66
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,67,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xea for iPixelFormat=67
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,68,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xeb for iPixelFormat=68
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,69,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xec for iPixelFormat=69
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,70,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xed for iPixelFormat=70
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 48 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,71,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xee for iPixelFormat=71
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,72,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xef for iPixelFormat=72
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,73,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xf8 for iPixelFormat=73
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,74,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xf9 for iPixelFormat=74
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,75,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfa for iPixelFormat=75
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,76,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfb for iPixelFormat=76
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,77,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfc for iPixelFormat=77
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,78,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfd for iPixelFormat=78
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,79,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfe for iPixelFormat=79
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,80,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xff for iPixelFormat=80
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,81,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x100 for iPixelFormat=81
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,82,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x101 for iPixelFormat=82
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,83,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x102 for iPixelFormat=83
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,84,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x103 for iPixelFormat=84
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,85,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x104 for iPixelFormat=85
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,86,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x105 for iPixelFormat=86
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,87,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x106 for iPixelFormat=87
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,88,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x107 for iPixelFormat=88
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,89,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x108 for iPixelFormat=89
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,90,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x109 for iPixelFormat=90
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,91,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10a for iPixelFormat=91
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,92,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10b for iPixelFormat=92
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,93,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10c for iPixelFormat=93
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,94,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10d for iPixelFormat=94
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,95,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10e for iPixelFormat=95
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,96,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10f for iPixelFormat=96
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,1,0,(nil))
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,1,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa2 for iPixelFormat=1
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,2,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa3 for iPixelFormat=2
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,3,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa3 for iPixelFormat=3
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,4,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa4 for iPixelFormat=4
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,5,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa5 for iPixelFormat=5
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,6,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa5 for iPixelFormat=6
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,7,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa6 for iPixelFormat=7
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,8,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa7 for iPixelFormat=8
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,9,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa7 for iPixelFormat=9
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,10,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa8 for iPixelFormat=10
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,11,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa9 for iPixelFormat=11
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,12,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa9 for iPixelFormat=12
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,13,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xaa for iPixelFormat=13
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,14,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xab for iPixelFormat=14
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,15,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xab for iPixelFormat=15
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,16,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xac for iPixelFormat=16
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,17,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xad for iPixelFormat=17
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,18,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xad for iPixelFormat=18
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,19,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb0 for iPixelFormat=19
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,20,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb1 for iPixelFormat=20
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,21,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb2 for iPixelFormat=21
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,22,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb3 for iPixelFormat=22
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 48 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,23,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb4 for iPixelFormat=23
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,24,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb5 for iPixelFormat=24
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,25,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xbe for iPixelFormat=25
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,26,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xbf for iPixelFormat=26
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,27,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc0 for iPixelFormat=27
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,28,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc1 for iPixelFormat=28
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,29,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc2 for iPixelFormat=29
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,30,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc3 for iPixelFormat=30
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,31,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc4 for iPixelFormat=31
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,32,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc5 for iPixelFormat=32
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,33,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc6 for iPixelFormat=33
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,34,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc7 for iPixelFormat=34
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,35,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc8 for iPixelFormat=35
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,36,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc9 for iPixelFormat=36
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,37,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xca for iPixelFormat=37
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,38,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcb for iPixelFormat=38
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,39,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcc for iPixelFormat=39
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,40,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcd for iPixelFormat=40
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,41,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xce for iPixelFormat=41
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,42,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcf for iPixelFormat=42
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,43,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd0 for iPixelFormat=43
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,44,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd1 for iPixelFormat=44
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,45,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd2 for iPixelFormat=45
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,46,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd3 for iPixelFormat=46
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,47,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd4 for iPixelFormat=47
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,48,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd5 for iPixelFormat=48
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,49,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdc for iPixelFormat=49
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,50,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdd for iPixelFormat=50
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,51,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdd for iPixelFormat=51
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,52,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xde for iPixelFormat=52
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,53,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdf for iPixelFormat=53
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,54,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdf for iPixelFormat=54
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,55,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe0 for iPixelFormat=55
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,56,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe1 for iPixelFormat=56
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,57,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe1 for iPixelFormat=57
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,58,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe2 for iPixelFormat=58
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,59,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe3 for iPixelFormat=59
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,60,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe3 for iPixelFormat=60
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,61,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe4 for iPixelFormat=61
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,62,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe5 for iPixelFormat=62
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,63,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe5 for iPixelFormat=63
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,64,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe6 for iPixelFormat=64
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,65,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe7 for iPixelFormat=65
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,66,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe7 for iPixelFormat=66
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,67,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xea for iPixelFormat=67
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,68,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xeb for iPixelFormat=68
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,69,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xec for iPixelFormat=69
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,70,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xed for iPixelFormat=70
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 48 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,71,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xee for iPixelFormat=71
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,72,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xef for iPixelFormat=72
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,73,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xf8 for iPixelFormat=73
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,74,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xf9 for iPixelFormat=74
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,75,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfa for iPixelFormat=75
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,76,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfb for iPixelFormat=76
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,77,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfc for iPixelFormat=77
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,78,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfd for iPixelFormat=78
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,79,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfe for iPixelFormat=79
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,80,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xff for iPixelFormat=80
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,81,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x100 for iPixelFormat=81
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,82,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x101 for iPixelFormat=82
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,83,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x102 for iPixelFormat=83
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,84,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x103 for iPixelFormat=84
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,85,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x104 for iPixelFormat=85
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,86,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x105 for iPixelFormat=86
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,87,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x106 for iPixelFormat=87
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,88,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x107 for iPixelFormat=88
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,89,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x108 for iPixelFormat=89
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,90,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x109 for iPixelFormat=90
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,91,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10a for iPixelFormat=91
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,92,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10b for iPixelFormat=92
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,93,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10c for iPixelFormat=93
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,94,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10d for iPixelFormat=94
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,95,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10e for iPixelFormat=95
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,96,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10f for iPixelFormat=96
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,1,0,(nil))
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,1,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa2 for iPixelFormat=1
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,2,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa3 for iPixelFormat=2
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,3,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa3 for iPixelFormat=3
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,4,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa4 for iPixelFormat=4
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,5,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa5 for iPixelFormat=5
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,6,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa5 for iPixelFormat=6
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,7,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa6 for iPixelFormat=7
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,8,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa7 for iPixelFormat=8
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,9,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa7 for iPixelFormat=9
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,10,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa8 for iPixelFormat=10
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,11,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa9 for iPixelFormat=11
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,12,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xa9 for iPixelFormat=12
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,13,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xaa for iPixelFormat=13
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,14,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xab for iPixelFormat=14
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,15,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xab for iPixelFormat=15
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,16,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xac for iPixelFormat=16
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,17,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xad for iPixelFormat=17
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,18,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xad for iPixelFormat=18
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,19,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb0 for iPixelFormat=19
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,20,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb1 for iPixelFormat=20
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,21,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb2 for iPixelFormat=21
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,22,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb3 for iPixelFormat=22
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 48 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,23,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb4 for iPixelFormat=23
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,24,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xb5 for iPixelFormat=24
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,25,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xbe for iPixelFormat=25
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,26,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xbf for iPixelFormat=26
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,27,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc0 for iPixelFormat=27
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,28,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc1 for iPixelFormat=28
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,29,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc2 for iPixelFormat=29
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,30,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc3 for iPixelFormat=30
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,31,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc4 for iPixelFormat=31
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,32,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc5 for iPixelFormat=32
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,33,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc6 for iPixelFormat=33
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,34,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc7 for iPixelFormat=34
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,35,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc8 for iPixelFormat=35
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,36,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xc9 for iPixelFormat=36
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,37,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xca for iPixelFormat=37
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,38,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcb for iPixelFormat=38
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,39,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcc for iPixelFormat=39
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,40,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcd for iPixelFormat=40
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,41,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xce for iPixelFormat=41
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,42,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xcf for iPixelFormat=42
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,43,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd0 for iPixelFormat=43
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,44,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd1 for iPixelFormat=44
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,45,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd2 for iPixelFormat=45
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,46,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd3 for iPixelFormat=46
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,47,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd4 for iPixelFormat=47
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,48,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xd5 for iPixelFormat=48
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,49,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdc for iPixelFormat=49
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,50,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdd for iPixelFormat=50
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,51,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdd for iPixelFormat=51
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,52,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xde for iPixelFormat=52
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,53,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdf for iPixelFormat=53
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,54,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xdf for iPixelFormat=54
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,55,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe0 for iPixelFormat=55
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,56,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe1 for iPixelFormat=56
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,57,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe1 for iPixelFormat=57
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,58,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe2 for iPixelFormat=58
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,59,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe3 for iPixelFormat=59
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,60,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe3 for iPixelFormat=60
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,61,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe4 for iPixelFormat=61
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,62,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe5 for iPixelFormat=62
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,63,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe5 for iPixelFormat=63
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,64,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe6 for iPixelFormat=64
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,65,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe7 for iPixelFormat=65
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 36 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,66,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xe7 for iPixelFormat=66
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 124 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DRAW_TO_WINDOW PFD_DRAW_TO_BITMAP PFD_GENERIC_FORMAT PFD_SUPPORT_GDI PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,67,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xea for iPixelFormat=67
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,68,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xeb for iPixelFormat=68
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,69,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xec for iPixelFormat=69
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,70,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xed for iPixelFormat=70
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 48 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,71,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xee for iPixelFormat=71
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,72,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xef for iPixelFormat=72
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 64 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,73,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xf8 for iPixelFormat=73
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,74,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xf9 for iPixelFormat=74
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,75,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfa for iPixelFormat=75
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,76,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfb for iPixelFormat=76
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,77,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfc for iPixelFormat=77
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,78,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfd for iPixelFormat=78
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,79,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xfe for iPixelFormat=79
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,80,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0xff for iPixelFormat=80
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,81,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x100 for iPixelFormat=81
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,82,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x101 for iPixelFormat=82
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,83,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x102 for iPixelFormat=83
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,84,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x103 for iPixelFormat=84
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,85,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x104 for iPixelFormat=85
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,86,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x105 for iPixelFormat=86
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,87,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x106 for iPixelFormat=87
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,88,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x107 for iPixelFormat=88
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 24 8,8,8,0 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,89,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x108 for iPixelFormat=89
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,90,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x109 for iPixelFormat=90
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,91,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10a for iPixelFormat=91
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,92,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10b for iPixelFormat=92
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 0 stencil 0 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,93,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10c for iPixelFormat=93
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,94,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10d for iPixelFormat=94
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,95,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10e for iPixelFormat=95
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:trace:wgl:glxdrv_wglDescribePixelFormat (0x110081,96,40,0x33f788)
+0096:trace:wgl:get_pixel_format Returning fmt_id=0x10f for iPixelFormat=96
+0096:trace:wgl:dump_PIXELFORMATDESCRIPTOR size 40 version 1 flags 37 type 0 color 32 8,8,8,8 accum 0 depth 24 stencil 8 aux 0 PFD_DOUBLEBUFFER PFD_DRAW_TO_WINDOW PFD_SUPPORT_OPENGL 
+0096:fixme:ieframe:BrowserService_GetTravelLog 0x1db490 0x33e0b8
+0096:fixme:ieframe:ClientSite_GetContainer (0x1601cc)->(0x33e078)
+0096:fixme:ieframe:BrowserService_GetTravelLog 0x1db490 0x33e608
+0096:fixme:ieframe:ClientSite_GetContainer (0x1601cc)->(0x33e5c8)
+0096:fixme:ieframe:DocHostUIHandler_GetDropTarget (0x1601cc)
+0096:fixme:ieframe:DocHostUIHandler_GetDropTarget (0x1601cc)
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x161bc8)->(0xebaaaf0)
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x36c6ec0)->(0xeba21f0)
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x36588e0)->(0xeba29e0)
+0096:fixme:jscript:JScriptProperty_SetProperty Unimplemented property 70000001
+0096:fixme:jscript:JScriptProperty_SetProperty Unimplemented property 70000002
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:err:mshtml:ElementSelector_querySelectorAll QuerySelectorAll failed: 8053000c
+0096:fixme:mshtml:get_listener_container unimplemented event L"unload"
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:ieframe:PropertyNotifySink_OnChanged unimplemented dispid 1005
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x389ce78)->(0xeb8a4a0)
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x389d4d0)->(0xeb7e048)
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x389d928)->(0xec32ff0)
+0096:fixme:jscript:JScriptProperty_SetProperty Unimplemented property 70000001
+0096:fixme:jscript:JScriptProperty_SetProperty Unimplemented property 70000002
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+009c:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+009c:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+009c:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+009c:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+0096:err:mshtml:ElementSelector_querySelectorAll QuerySelectorAll failed: 8053000c
+0096:fixme:mshtml:get_listener_container unimplemented event L"unload"
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:ieframe:PropertyNotifySink_OnChanged unimplemented dispid 1005
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a22e30)->(0x33eba8)
+0096:fixme:jscript:create_regexp_var unimplemented for undefined
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a238f0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a23f18)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a24520)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a24ae0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a25148)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a25810)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a25dd0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a263e8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a26968)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a26f70)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a275a8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a27b68)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a28160)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a28900)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a28f68)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a29528)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a29b08)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2a110)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2a6f0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2acd0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2b2b0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2b890)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2be70)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2c450)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2ca30)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2d010)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2d5f0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2dbd0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2e1b0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2ebc0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2f160)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2f740)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a2fd20)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a30328)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a30908)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a30ee8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a314c8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a31aa8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a32088)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a32668)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a32c48)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a33228)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a33100)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a33ff0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a345b0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3a34b90)->(0x33eba8)
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+009b:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+009b:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bb:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bc:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bb:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bc:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bd:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bd:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+009b:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+009b:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bb:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bb:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bc:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bc:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bd:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bd:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+0096:fixme:mshtml:nsChannel_IsNoCacheResponse (0x39b2588)->(0x33df97)
+0096:fixme:mshtml:nsChannel_GetContentLength (0x39b2588)->(0x33df30)
+0096:fixme:mshtml:nsChannel_IsNoCacheResponse (0x3686ff8)->(0x33df97)
+0096:fixme:mshtml:nsChannel_GetContentLength (0x3686ff8)->(0x33df30)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c97520)->(0x33eba8)
+0096:fixme:jscript:create_regexp_var unimplemented for undefined
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c97fe0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c98608)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x38a33f8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c06168)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c067d0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c06e98)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c07458)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c07a70)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c07ff0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c085f8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c08c30)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c091f0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c121c8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c12968)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c12f08)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c13520)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c13b28)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c14108)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c146e8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c14d00)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c15308)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c158e8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c15ec8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c164e0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c16ae8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c170c8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c176a8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c17cc0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c182c8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c18ca0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c192a8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c19888)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c19e90)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1a470)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1aa50)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1b030)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1b610)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1bbf0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1c1d0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1c7b0)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1cd90)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1d370)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1d248)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1e138)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1e6d8)->(0x33eba8)
+0096:fixme:mshtml:HTMLAnchorElement_get_pathname (0x3c1ed00)->(0x33eba8)
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x161bc8)->(0xeb7c878)
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+00c0:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00c0:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00c0:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00c0:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bf:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bf:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00be:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00be:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00be:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00be:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+00bf:fixme:secur32:schannel_get_cipher_algid unknown algorithm 23
+00bf:fixme:secur32:schannel_get_mac_algid unknown algorithm 200, cipher 23
+0096:fixme:mshtml:nsChannel_AsyncOpen2 (0x36fc3a0)->(0xec20168)
+0096:fixme:urlmon:InternetBindInfo_GetBindString not supported string type 20
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x783ccb48) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x24adbf8) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x2560120) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x27b02f0) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x3f74f8) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x26f6658) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x25f2540) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x3e3070) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x1d4b630) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x1823550) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x18fbd70) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x1c23e08) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x3d2c40) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x1d0a7c8) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x16887f8) stub
+0096:fixme:msvcrt:__clean_type_info_names_internal (0x102807b8) stub
